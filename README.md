@@ -1,2 +1,6 @@
-# leetcode-solutions
-Accepted LeetCode solutions synced automatically for DSA/interview prep.
+# LeetCode Solutions
+
+Accepted LeetCode submissions synced automatically from my LeetCode account.
+
+Main language: Python  
+Focus: DSA, OA prep, interview patterns
